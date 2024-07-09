@@ -15,23 +15,23 @@ Foi solicitado pelo prompt mais ou menos da seguinte forma: "Cria imagem de como
 
 ## Resultado
 Carros:
-![Foto 1 - Primeiro carro](assents\img\veículos\carro\01.jpeg)
-![Foto 2 - Segundo carro](assents\img\veículos\carro\02.jpeg)
-![Foto 3 - Terceiro carro](assents\img\veículos\carro\03.jpeg)
-![Foto 4 - Quarto carro](assents\img\veículos\carro\04.jpeg)
+![Foto 1 - Primeiro carro](assents/img/veículos/carro/01.jpeg)
+![Foto 2 - Segundo carro](assents/img/veículos/carro/02.jpeg)
+![Foto 3 - Terceiro carro](assents/img/veículos/carro/03.jpeg)
+![Foto 4 - Quarto carro](assents/img/veículos/carro/04.jpeg)
 
 Motocicletas:
 
-![Foto 1 - Primeira moto](assents\img\veículos\moto\01.jpeg)
-![Foto 2 - Segunda moto](assents\img\veículos\moto\02.jpeg)
-![Foto 3 - Terceira moto](assents\img\veículos\moto\03.jpeg)
-![Foto 4 - Quarta moto](assents\img\veículos\moto\04.jpeg)
+![Foto 1 - Primeira moto](assents/img/veículos/moto/01.jpeg)
+![Foto 2 - Segunda moto](assents/img/veículos/moto/02.jpeg)
+![Foto 3 - Terceira moto](assents/img/veículos/moto/03.jpeg)
+![Foto 4 - Quarta moto](assents/img/veículos/moto/04.jpeg)
 
 Trem:
-![Foto 1 - Primeiro trem](assents\img\veículos\trem\01.jpeg)
-![Foto 2 - Segundo trem](assents\img\veículos\trem\02.jpeg)
-![Foto 3 - Terceiro trem](assents\img\veículos\trem\03.jpeg)
-![Foto 4 - Quarto trem](assents\img\veículos\trem\04.jpeg)
+![Foto 1 - Primeiro trem](assents/img/veículos/trem/01.jpeg)
+![Foto 2 - Segundo trem](assents/img/veículos/trem/02.jpeg)
+![Foto 3 - Terceiro trem](assents/img/veículos/trem/03.jpeg)
+![Foto 4 - Quarto trem](assents/img/veículos/trem/04.jpeg)
 
 
 
@@ -40,10 +40,10 @@ Bonus: E como poderá ser o designer de uma navio e que também seja um avião?
 
 Navio + Avião:
 
-![Foto 1 - Primeiro Navio + Avião](assents\img\veículos\navio+avião\01.jpeg)
-![Foto 2 - Segundo Navio + Avião](assents\img\veículos\navio+avião\02.jpeg)
-![Foto 3 - Terceiro Navio + Avião](assents\img\veículos\navio+avião\03.jpeg)
-![Foto 4 - Quarto Navio + Avião](assents\img\veículos\navio+avião\04.jpeg)
+![Foto 1 - Primeiro Navio + Avião](assents/img/veículos/navio+avião/01.jpeg)
+![Foto 2 - Segundo Navio + Avião](assents/img/veículos/navio+avião/02.jpeg)
+![Foto 3 - Terceiro Navio + Avião](assents/img/veículos/navio+avião/03.jpeg)
+![Foto 4 - Quarto Navio + Avião](assents/img/veículos/navio+avião/04.jpeg)
 
 
 ## Reflexão

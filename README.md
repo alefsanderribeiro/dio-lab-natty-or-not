@@ -1,55 +1,48 @@
 # Veículos do Futuro! 
 
 ## Descrição
-Essa é uma visualização gerada de como poderão ser os veículos do futuro, gerado por uma inteligência artificial.
+
+Essa é uma visualização gerada por inteligência artificial de como poderão ser os veículos no futuro.
 
 
 ## Tecnologia Utilizada
+**DALLE-3**
 
-- **Claude 3**: Geração do prompt e do nome da modelo.
+
+## Processo de Criação
+Foi solicitado pelo prompt mais ou menos da seguinte forma: "Cria imagem de como será o carro do futuro com um designer com bastante teconologia."
 
 
-<p><strong>Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:</strong></p>
+## Resultado
+Carros:
+![Foto 1 - Primeiro carro](veículos\carro\01.jpeg)
+![Foto 2 - Segundo carro](veículos\carro\02.jpeg)
+![Foto 3 - Terceiro carro](veículos\carro\03.jpeg)
+![Foto 4 - Quarto carro](veículos\carro\04.jpeg)
 
-<ul>
-    <li><strong>ChatGPT 4omni:</strong>
-        <p style="margin-left: 20px;">Iniciei o projeto solicitando ao ChatGPT a criação de um roteiro para um locutor de rádio anunciando uma nova música de uma banda pop. Após finalizar o roteiro, pedi que ele também criasse nomes para a banda, a música e a rádio. Por último, solicitei que ele criasse, com base no nome da rádio e da descrição da banda, uma logo para cada.</p>
-    </li>
-    <li><strong>Suno:</strong>
-        <p style="margin-left: 20px;">Suno é uma ferramenta de IA generativa que produz músicas, tanto com letra quanto instrumental. Usei o Suno para gerar a música principal (incluindo a letra) e a música de fundo da rádio (apenas instrumental).</p>
-    </li>
-    <li><strong>ElevenLabs:</strong>
-        <p style="margin-left: 20px;">ElevenLabs é uma ferramenta de geração de narrações, onde é possível escolher a voz que irá narrar e controlar suas entonações e emoções. Para a narração da rádio, utilizei o roteiro gerado pelo ChatGPT na ferramenta ElevenLabs, ajustando as tonalidades e entonações da voz escolhida dentro da plataforma.</p>
-    </li>
-</ul>
-<p><strong>Além das IA's citadas, também foram utilizadas as seguintes ferramentas:</strong></p>
+Motocicletas:
 
-<ul>
-    <li><strong>Capcut:</strong>
-        <p style="margin-left: 20px;">
-            A ferramenta Capcut foi utilizada para a edição do áudio e do vídeo final.
-        </p>
-    </li>
-    <li><strong>Canvas:</strong>
-        <p style="margin-left: 20px;">
-            O Canvas foi utilizado para editar pequenas imperfeições nas imagens geradas pelo ChatGPT.
-        </p>
-    </li>
-</ul>
+![Foto 1 - Primeira moto](veículos\moto\01.jpeg)
+![Foto 2 - Segunda moto](veículos\moto\02.jpeg)
+![Foto 3 - Terceira moto](veículos\moto\03.jpeg)
+![Foto 4 - Quarta moto](veículos\moto\04.jpeg)
 
-## 🧐 Processo de Criação
-De início, queria fazer algo diferente dos exemplos tradicionais e que utilizasse o maior número possível de IAs generativas. A ideia da rádio surgiu como um auto-desafio para unir meus conhecimentos com as capacidades proporcionadas pela IA e criar algo complexo.
+Trem:
+![Foto 1 - Primeiro trem](veículos\trem\01.jpeg)
+![Foto 2 - Segundo trem](veículos\trem\02.jpeg)
+![Foto 3 - Terceiro trem](veículos\trem\03.jpeg)
+![Foto 4 - Quarto trem](veículos\trem\04.jpeg)
 
-Iniciei o projeto solicitando ao ChatGPT a criação de um roteiro para um locutor de rádio anunciando uma nova música de uma banda pop. Após finalizar o roteiro, pedi que ele também criasse nomes para a banda, a música e a rádio. Por último, solicitei que ele criasse, com base no nome da rádio e na descrição da banda, uma logo para cada.
+Bonus: E como poderá ser o designer de uma navio e que também seja um avião?
 
-Finalizada essa parte, fui para a plataforma Suno, onde gerei as músicas, adicionando separadamente as descrições dos áudios que eu queria incorporar ao projeto (a música principal e a música de fundo da narração). Com os áudios prontos, parti para a plataforma ElevenLabs, onde escolhi qual seria a voz do narrador e gerei a narração do roteiro criado pelo ChatGPT, controlando a entonação e as nuances para cada momento de fala.
+Navio + Avião:
 
-Após finalizar todas as gerações necessárias, utilizei a ferramenta Canvas para corrigir pequenas imperfeições na logo da rádio. Em seguida, importei todo o material na ferramenta CapCut, organizei os áudios e imagens, e finalizei o vídeo com as edições.
+![Foto 1 - Primeiro Navio + Avião](veículos\navio+avião\01.jpeg)
+![Foto 2 - Segundo Navio + Avião](veículos\navio+avião\02.jpeg)
+![Foto 3 - Terceiro Navio + Avião](veículos\navio+avião\03.jpeg)
+![Foto 4 - Quarto Navio + Avião](veículos\navio+avião\04.jpeg)
 
-## 🚀 Resultado
-Devido as limitações do GitHub, o vídeo abaixo está em baixíssima qualidade. Para assistir o vídeo em melhor qualidade [clique aqui.](https://www.youtube.com/watch?v=zfMgg_ozHO4)
 
-https://github.com/JanahAleixo/lab-natty-or-not/assets/107958723/fd0db285-1201-40e3-a70c-6d7420f4f158
+## Reflexão
 
-## 💭 Reflexão
-Criar e deixar a criatividade fluir por meio das IAs generativas tem sido extremamente gratificante. Sempre adorei produzir conteúdos, mas enfrentava muitas limitações. Com a tecnologia de IA, consegui quebrar essas barreiras, o que representou uma verdadeira revolução para minha persona criativa. Além de facilitar a materialização das ideias, as IAs proporcionam novas perspectivas e possibilidades, ampliando o horizonte de criação. Essa inovação não só potencializa a criatividade individual, mas também transforma a maneira como nos expressamos e interagimos com o mundo.
+É possível criar designer de futuros produtos. Isso poderá nos ajudar a ter insights de novos produtos pra nos ajudar em diversas funções e até nos cinemas. Pode-se perceber que algumas imagens gerados apresentaram algumas imagens que já podemos pensar como um novo futuro pra nós.
